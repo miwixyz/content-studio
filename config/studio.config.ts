@@ -12,15 +12,15 @@ export const studio = {
     channelName: "Your Channel",
     handle: "@your-handle",
     subscriberCount: "0",
-    niche: "your niche",
-    nicheDescription: "what you teach or create content about",
+    niche: "DJ & Orthopädie",
+    nicheDescription: "Content rund um DJing und Orthopädie",
   },
 
   // --- Brand Voice ---
   voice: {
-    tone: "enthusiastic but grounded",
+    tone: "casual and fun",
     rules: [
-      "Direct, action-oriented",
+      "Locker, nahbar und unterhaltsam",
       "First-person, conversational",
       "Short paragraphs with line breaks",
       "No AI-sounding phrases like 'game-changer', 'revolutionary', 'let's dive in'",
@@ -49,7 +49,7 @@ export const studio = {
     brandName: "Your Brand",
     creatorFullName: "Your Name",
     handle: "@your-handle",
-    accentColor: "#4F6AFF",
+    accentColor: "#a11826",
     headshot: "/assets/headshot.png",
   },
 
@@ -61,8 +61,8 @@ export const studio = {
 
   // --- AI News Analysis ---
   newsAnalysis: {
-    audienceDescription: "your target audience",
-    focusTopics: ["AI", "automation", "business"],
+    audienceDescription: "DJs, music producers, and music tech enthusiasts",
+    focusTopics: ["DJ technology", "music production", "audio AI", "music tech"],
   },
 };
 
